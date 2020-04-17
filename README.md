@@ -1,0 +1,2 @@
+# MiniProjects
+All mini projects
